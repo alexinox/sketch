@@ -1,2 +1,2 @@
-# skcetch
+# sketch
 open source arduino sketches.
